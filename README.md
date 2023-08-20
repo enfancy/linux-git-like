@@ -1,2 +1,25 @@
 # linux-git-like
 Thank you for clicking on this link, sorry it will take you a little time, thank you for your understanding
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>爱心跳动,3D拖拽搬</title>
+  <link rel="stylesheet" href="./css/style.css">
+
+</head>
+
+<body>
+
+  <script src='./js/three.min.js'></script>
+  <!-- <script src='./js/MeshSurfaceSampler.js'></script> -->
+  <script src='./js/TrackballControls.js'></script>
+  <script src='./js/simplex-noise.js'></script>
+  <script src='./js/OBJLoader.js'></script>
+  <script src='./js/gsap.min.js'></script>
+  <script src="./js/script.js"></script>
+   .....
+</body>
+
+</html>
